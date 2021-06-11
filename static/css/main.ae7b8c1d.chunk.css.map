@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Menu.css"],"names":[],"mappings":"AAAA,SACI,eACJ,CACA,WACI,oBAAa,CAAb,YACJ","file":"main.ae7b8c1d.chunk.css","sourcesContent":[".foodpic {\n    max-width: 200px;\n}\n.container {\n    display: flex;\n}"]}

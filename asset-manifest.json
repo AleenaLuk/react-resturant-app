@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-resturant-app/static/css/main.ae7b8c1d.chunk.css",
+    "main.js": "/react-resturant-app/static/js/main.41f1472e.chunk.js",
+    "main.js.map": "/react-resturant-app/static/js/main.41f1472e.chunk.js.map",
+    "runtime-main.js": "/react-resturant-app/static/js/runtime-main.19bbd28b.js",
+    "runtime-main.js.map": "/react-resturant-app/static/js/runtime-main.19bbd28b.js.map",
+    "static/js/2.f09dd03c.chunk.js": "/react-resturant-app/static/js/2.f09dd03c.chunk.js",
+    "static/js/2.f09dd03c.chunk.js.map": "/react-resturant-app/static/js/2.f09dd03c.chunk.js.map",
+    "index.html": "/react-resturant-app/index.html",
+    "static/css/main.ae7b8c1d.chunk.css.map": "/react-resturant-app/static/css/main.ae7b8c1d.chunk.css.map",
+    "static/js/2.f09dd03c.chunk.js.LICENSE.txt": "/react-resturant-app/static/js/2.f09dd03c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19bbd28b.js",
+    "static/js/2.f09dd03c.chunk.js",
+    "static/css/main.ae7b8c1d.chunk.css",
+    "static/js/main.41f1472e.chunk.js"
+  ]
+}
