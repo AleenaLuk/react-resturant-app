@@ -1,0 +1,6 @@
+.foodpic {
+    max-width: 200px;
+}
+.container {
+    display: flex;
+}
